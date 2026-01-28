@@ -1,6 +1,6 @@
-# Contributing to Everything Claude Code
+# 贡贡献指南 - 阿东的 VibeCoding 开发范式
 
-Thanks for wanting to contribute. This repo is meant to be a community resource for Claude Code users.
+感谢你想要贡献！这个仓库是 Claude Code 用户的社区资源。
 
 ## What We're Looking For
 
@@ -60,8 +60,8 @@ New or improved MCP server configs:
 ### 1. Fork the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/everything-claude-code.git
-cd everything-claude-code
+git clone https://github.com/YOUR_USERNAME/adong-vibecoding.git
+cd adong-vibecoding
 ```
 
 ### 2. Create a branch
@@ -182,10 +182,10 @@ Then open a PR with:
 
 ---
 
-## Questions?
+## 有问题？
 
-Open an issue or reach out on X: [@affaanmustafa](https://x.com/affaanmustafa)
+提 issue 或通过 GitHub 联系：[@adongwanai](https://github.com/adongwanai)
 
 ---
 
-Thanks for contributing. Let's build a great resource together.
+感谢贡献。让我们一起构建一个优秀的资源。

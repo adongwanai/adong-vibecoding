@@ -1,12 +1,12 @@
 {
-  "name": "adong-triai-dev-template",
-  "description": "阿东的 Tri-AI 开发范式基础模板 - 基于 Claude Code 冠军配置改造，整合 Gemini（前端）+ Claude（后端）+ Codex（调试）的高效 AI Native 开发工作流",
+  "name": "adong-vibecoding",
+  "description": "阿东的 VibeCoding 开发范式 - 基于 Claude Code 的高效 AI Native 开发工作流，包含 Agents、Skills、Commands、Rules 等模块化架构",
   "author": {
     "name": "阿东",
-    "url": "https://github.com/adong"
+    "url": "https://github.com/adongwanai"
   },
-  "homepage": "https://github.com/adong/adong-triai-dev-template",
-  "repository": "https://github.com/adong/adong-triai-dev-template",
+  "homepage": "https://github.com/adongwanai/adong-vibecoding",
+  "repository": "https://github.com/adongwanai/adong-vibecoding",
   "license": "MIT",
   "keywords": [
     "claude-code",

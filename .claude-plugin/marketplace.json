@@ -1,22 +1,22 @@
 {
-  "name": "everything-claude-code",
+  "name": "adong-vibecoding",
   "owner": {
-    "name": "Affaan Mustafa",
-    "email": "affaan@example.com"
+    "name": "阿东",
+    "email": "zhangzhendong22@mails.ucas.ac.cn"
   },
   "metadata": {
-    "description": "Battle-tested Claude Code configurations from an Anthropic hackathon winner"
+    "description": "阿东的 VibeCoding 开发范式 - 基于 Claude Code 的高效 AI Native 开发工作流"
   },
   "plugins": [
     {
-      "name": "everything-claude-code",
+      "name": "adong-vibecoding",
       "source": "./",
-      "description": "Complete collection of agents, skills, hooks, commands, and rules evolved over 10+ months of intensive daily use",
+      "description": "阿东的 VibeCoding 开发范式 - 包含 Agents、Skills、Commands、Rules 等模块化架构",
       "author": {
-        "name": "Affaan Mustafa"
+        "name": "阿东"
       },
-      "homepage": "https://github.com/affaan-m/everything-claude-code",
-      "repository": "https://github.com/affaan-m/everything-claude-code",
+      "homepage": "https://github.com/adongwanai/adong-vibecoding",
+      "repository": "https://github.com/adongwanai/adong-vibecoding",
       "license": "MIT",
       "keywords": [
         "agents",
